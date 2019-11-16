@@ -1,6 +1,6 @@
-#Chat App
+# Chat App
 ---
-##Purpose
+## Purpose
 
 - To create something fun and useful that i could reference in the future when building other chat based apps
 - Showcase skill set in regards to swift language
