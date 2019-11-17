@@ -17,7 +17,7 @@ class ViewController: UITableViewController {
     }
 
     @objc func handleLogout() {
-        let loginController = LoginViewController() // makes reference to login screen
+        let loginController = LoginViewController()
         present(loginController, animated: true, completion: nil)
     }
 
